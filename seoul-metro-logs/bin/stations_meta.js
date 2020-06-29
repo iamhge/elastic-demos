@@ -94,7 +94,7 @@ for(var i=0; i < location_meta.length; i++){
       "geo_x" : location_meta[i].geo_x,
       "geo_y" : location_meta[i].geo_y
     }
-  } else {
+  } else { // 다국어 정보 없으면 그냥 저장
     stations_meta[location_meta[i].station_nm] = {
       "station_code" : location_meta[i].station_code,
       "stn_nm" : location_meta[i].station_nm.replace("\n",""),
@@ -133,5 +133,5 @@ for(var i=0; i < sAddr5to8.length; i++){
   // console.log(sAddr5to8[i]);
 }
 
-// console.log("%j",stations_meta);
+//console.log("%j",stations_meta);
 module.exports = stations_meta;

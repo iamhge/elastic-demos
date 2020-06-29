@@ -3,7 +3,7 @@ var parse = require('csv-parse');
 var s_meta = require('./stations_meta');
 
 //분석할 파일 이름 정확히 기입
-var f1to4 = fs.readFileSync('source/metro_log_2017.csv', 'utf8');
+var f1to4 = fs.readFileSync('source/metro_log_2019.csv', 'utf8');
 
 parse(f1to4, {comment:"#"}, function(csv_err, csv_data){
   if (csv_err) {
@@ -19,6 +19,7 @@ parse(f1to4, {comment:"#"}, function(csv_err, csv_data){
   for(var cd=1; cd< csv_data.length ; cd+=2){
     var dataIn = csv_data[cd];
     var dataOut = csv_data[cd+1];
+    // 1~3행까지 각각 일치하면 넣는다
     if(dataIn[0]===dataOut[0] && dataIn[1]===dataOut[1] 
       && dataIn[2]===dataOut[2] && dataIn[3]===dataOut[3]){
       // 역명
@@ -119,7 +120,7 @@ parse(f1to4, {comment:"#"}, function(csv_err, csv_data){
         var logdata = JSON.stringify(s_logs)+"\n";
         
         // data 디렉토리 아래 저장할 파일 이름. data 디렉토리 없으면 생성해야 함
-        fs.appendFileSync("data/seoul-metro-2018.logs", logdata);
+        fs.appendFileSync("data/seoul-metro-2019.logs", logdata);
       }
 
     }
