@@ -1,0 +1,2056 @@
+{
+   "DESCRIPTION" :
+ {
+   "STN_NM": "한글",
+   "STN_NM_CHC": "한자",
+   "STN_NM_ENG": "영문",
+   "STN_NM_CHN": "중국어",
+   "STN_NM_JPN": "일본"
+ }, "DATA" :
+[
+ {
+   "stn_nm": "서울역",
+   "stn_nm_chc": "-",
+   "stn_nm_eng": "Seoul Station",
+   "stn_nm_chn": "首尔站",
+   "stn_nm_jpn": "ソウルヨク"
+ },
+ {
+   "stn_nm": "시청",
+   "stn_nm_chc": "市 廳",
+   "stn_nm_eng": "City Hall",
+   "stn_nm_chn": "市厅",
+   "stn_nm_jpn": "シチョン"
+ },
+ {
+   "stn_nm": "종각",
+   "stn_nm_chc": "鐘 閣",
+   "stn_nm_eng": "Jonggak",
+   "stn_nm_chn": "钟阁",
+   "stn_nm_jpn": "チョンガク"
+ },
+ {
+   "stn_nm": "종로3가",
+   "stn_nm_chc": "鍾路 3街",
+   "stn_nm_eng": "Jongno 3(sam)ga",
+   "stn_nm_chn": "钟路三街",
+   "stn_nm_jpn": "チョンノサムガ"
+ },
+ {
+   "stn_nm": "종로5가",
+   "stn_nm_chc": "鍾路 5街",
+   "stn_nm_eng": "Jongno 5(o)ga",
+   "stn_nm_chn": "钟路五街",
+   "stn_nm_jpn": "チョンノオガ"
+ },
+ {
+   "stn_nm": "동대문",
+   "stn_nm_chc": "東 大 門",
+   "stn_nm_eng": "Dongdaemun",
+   "stn_nm_chn": "东大门",
+   "stn_nm_jpn": "トンデムン"
+ },
+ {
+   "stn_nm": "동묘앞",
+   "stn_nm_chc": "東 廟 앞",
+   "stn_nm_eng": "Dongmyo",
+   "stn_nm_chn": "东庙",
+   "stn_nm_jpn": "トンミョアプ"
+ },
+ {
+   "stn_nm": "신설동",
+   "stn_nm_chc": "新 設 洞",
+   "stn_nm_eng": "Sinseoldong",
+   "stn_nm_chn": "新设洞",
+   "stn_nm_jpn": "シンソルトン"
+ },
+ {
+   "stn_nm": "제기동",
+   "stn_nm_chc": "祭 基 洞",
+   "stn_nm_eng": "Jegidong",
+   "stn_nm_chn": "祭基洞",
+   "stn_nm_jpn": "チェギドン"
+ },
+ {
+   "stn_nm": "청량리(서울시립대입구)",
+   "stn_nm_chc": "淸 凉 里(서울市立大入口)",
+   "stn_nm_eng": "Cheongnyangni(University of Seoul)",
+   "stn_nm_chn": "清凉里(首尔市立大学)",
+   "stn_nm_jpn": "チョンニャンニ"
+ },
+ {
+   "stn_nm": "시 청",
+   "stn_nm_chc": "市 廳",
+   "stn_nm_eng": "City Hall",
+   "stn_nm_chn": "市厅",
+   "stn_nm_jpn": "シチョン"
+ },
+ {
+   "stn_nm": "을지로입구",
+   "stn_nm_chc": "乙支路入口",
+   "stn_nm_eng": "Euljiro 1(il)ga",
+   "stn_nm_chn": "乙支路入口",
+   "stn_nm_jpn": "ウルチロイック"
+ },
+ {
+   "stn_nm": "을지로 3가",
+   "stn_nm_chc": "乙支路 3街",
+   "stn_nm_eng": "Euljiro 3(sam)ga",
+   "stn_nm_chn": "乙支路三街",
+   "stn_nm_jpn": "ウルチロサムガ"
+ },
+ {
+   "stn_nm": "을지로 4가",
+   "stn_nm_chc": "乙支路 4街",
+   "stn_nm_eng": "Euljiro 4(sa)ga",
+   "stn_nm_chn": "乙支路四街",
+   "stn_nm_jpn": "ウルチロサガ"
+ },
+ {
+   "stn_nm": "동대문역사문화공원(DDP)",
+   "stn_nm_chc": "東大門歷史文化公園(DDP)",
+   "stn_nm_eng": "Dongdaemun History & Culture Park(DDP)",
+   "stn_nm_chn": "东大门历史文化公园(DDP)",
+   "stn_nm_jpn": "トンデムンヨクサムンファゴンウォン(DDP)"
+ },
+ {
+   "stn_nm": "신 당",
+   "stn_nm_chc": "新 堂",
+   "stn_nm_eng": "Sindang",
+   "stn_nm_chn": "新堂",
+   "stn_nm_jpn": "シンダン"
+ },
+ {
+   "stn_nm": "상왕십리",
+   "stn_nm_chc": "上 往 十 里",
+   "stn_nm_eng": "Sangwangsimni",
+   "stn_nm_chn": "上往十里",
+   "stn_nm_jpn": "サンワンシムニ"
+ },
+ {
+   "stn_nm": "왕 십 리(성동구청)",
+   "stn_nm_chc": "往十里(城東區廳)",
+   "stn_nm_eng": "Wangsimni(Seongdong-gu Office)",
+   "stn_nm_chn": "往十里(城东区厅)",
+   "stn_nm_jpn": "ワンシムニ(ソンドン区庁)"
+ },
+ {
+   "stn_nm": "한 양 대",
+   "stn_nm_chc": "漢 陽 大",
+   "stn_nm_eng": "Hanyang Univ.",
+   "stn_nm_chn": "汉阳大学",
+   "stn_nm_jpn": "ハニャンデ"
+ },
+ {
+   "stn_nm": "뚝 섬",
+   "stn_nm_chc": "-",
+   "stn_nm_eng": "Ttukseom",
+   "stn_nm_chn": "纛岛",
+   "stn_nm_jpn": "トゥッソム"
+ },
+ {
+   "stn_nm": "성 수",
+   "stn_nm_chc": "聖 水",
+   "stn_nm_eng": "Seongsu",
+   "stn_nm_chn": "圣水",
+   "stn_nm_jpn": "ソンス"
+ },
+ {
+   "stn_nm": "건대입구",
+   "stn_nm_chc": "建大入口",
+   "stn_nm_eng": "Konkuk Univ.",
+   "stn_nm_chn": "建国大学",
+   "stn_nm_jpn": "コンデイック"
+ },
+ {
+   "stn_nm": "구 의(광진구청)",
+   "stn_nm_chc": "九 宜(廣津區廳)",
+   "stn_nm_eng": "Guui (Gwangjin-gu Office)",
+   "stn_nm_chn": "九宜(广津区厅)",
+   "stn_nm_jpn": "クイ"
+ },
+ {
+   "stn_nm": "강변(동서울터미널)",
+   "stn_nm_chc": "江 邊(東서울터미널)",
+   "stn_nm_eng": "Gangbyeon (Dongseoul Bus Terminal)",
+   "stn_nm_chn": "江边(东首尔客运站)",
+   "stn_nm_jpn": "カンビョン"
+ },
+ {
+   "stn_nm": "잠실나루",
+   "stn_nm_chc": "蠶 室 나 루",
+   "stn_nm_eng": "Jamsillaru",
+   "stn_nm_chn": "蚕室渡口",
+   "stn_nm_jpn": "チャムシルナル"
+ },
+ {
+   "stn_nm": "잠실(송파구청)",
+   "stn_nm_chc": "蠶 室(松坡區廳)",
+   "stn_nm_eng": "Jamsil (Songpa-gu Office)",
+   "stn_nm_chn": "蚕室(松坡区厅)",
+   "stn_nm_jpn": "チャムシル"
+ },
+ {
+   "stn_nm": "잠실새내",
+   "stn_nm_chc": "-",
+   "stn_nm_eng": "Jamsilsaenae",
+   "stn_nm_chn": "蚕室新川",
+   "stn_nm_jpn": "チャムシルセネ"
+ },
+ {
+   "stn_nm": "종합운동장",
+   "stn_nm_chc": "綜合運動場",
+   "stn_nm_eng": "Sports Complex",
+   "stn_nm_chn": "综合运动场",
+   "stn_nm_jpn": "チョンハブンドンジャン"
+ },
+ {
+   "stn_nm": "삼성(무역센터)",
+   "stn_nm_chc": "三 成(貿易센터)",
+   "stn_nm_eng": "Samseong (World Trade Center Seoul)",
+   "stn_nm_chn": "三成(会展中心)",
+   "stn_nm_jpn": "サムソン(三成)"
+ },
+ {
+   "stn_nm": "선릉",
+   "stn_nm_chc": "宣 陵",
+   "stn_nm_eng": "Seolleung",
+   "stn_nm_chn": "宣陵",
+   "stn_nm_jpn": "ソンルン"
+ },
+ {
+   "stn_nm": "역삼",
+   "stn_nm_chc": "驛 三",
+   "stn_nm_eng": "Yeoksam",
+   "stn_nm_chn": "驿三",
+   "stn_nm_jpn": "ヨッサム"
+ },
+ {
+   "stn_nm": "강남",
+   "stn_nm_chc": "江 南",
+   "stn_nm_eng": "Gangnam",
+   "stn_nm_chn": "江南",
+   "stn_nm_jpn": "カンナム"
+ },
+ {
+   "stn_nm": "교대(법원, 검찰청)",
+   "stn_nm_chc": "敎 大(法院․檢察廳)",
+   "stn_nm_eng": "Seoul Nat'l Univ. of Education(Court & Prosecutors’ Office)",
+   "stn_nm_chn": "首尔教育大学(法院·检察厅)",
+   "stn_nm_jpn": "キョデ"
+ },
+ {
+   "stn_nm": "서초",
+   "stn_nm_chc": "瑞 草",
+   "stn_nm_eng": "Seocho",
+   "stn_nm_chn": "瑞草",
+   "stn_nm_jpn": "ソチョ"
+ },
+ {
+   "stn_nm": "방배",
+   "stn_nm_chc": "方 背",
+   "stn_nm_eng": "Bangbae",
+   "stn_nm_chn": "方背",
+   "stn_nm_jpn": "パンベ"
+ },
+ {
+   "stn_nm": "사당",
+   "stn_nm_chc": "舍 堂",
+   "stn_nm_eng": "Sadang",
+   "stn_nm_chn": "舍堂",
+   "stn_nm_jpn": "サダン"
+ },
+ {
+   "stn_nm": "낙성대(강감찬)",
+   "stn_nm_chc": "落星垈(姜邯贊)",
+   "stn_nm_eng": "Nakseongdae(Ganggamchan)",
+   "stn_nm_chn": "落星垈(姜邯赞)",
+   "stn_nm_jpn": "ナクソンデ(カン・ガムチャン)"
+ },
+ {
+   "stn_nm": "서울대입구(관악구청)",
+   "stn_nm_chc": "서울大入口(冠岳區廳)",
+   "stn_nm_eng": "Seoul Nat‘l Univ. (Gwanak-gu Office)",
+   "stn_nm_chn": "首尔大学(冠岳区厅)",
+   "stn_nm_jpn": "ソウルデイック"
+ },
+ {
+   "stn_nm": "봉천",
+   "stn_nm_chc": "奉 天",
+   "stn_nm_eng": "Bongcheon",
+   "stn_nm_chn": "奉天",
+   "stn_nm_jpn": "ポンチョン"
+ },
+ {
+   "stn_nm": "신림",
+   "stn_nm_chc": "新 林",
+   "stn_nm_eng": "Sillim",
+   "stn_nm_chn": "新林",
+   "stn_nm_jpn": "シンリム"
+ },
+ {
+   "stn_nm": "신대방",
+   "stn_nm_chc": "新 大 方",
+   "stn_nm_eng": "Sindaebang",
+   "stn_nm_chn": "新大方",
+   "stn_nm_jpn": "シンデバン"
+ },
+ {
+   "stn_nm": "구로디지털단지",
+   "stn_nm_chc": "九老디지털團地",
+   "stn_nm_eng": "Guro Digital Complex",
+   "stn_nm_chn": "九老数码园区",
+   "stn_nm_jpn": "クロ・デジタルダンジ"
+ },
+ {
+   "stn_nm": "대림(구로구청)",
+   "stn_nm_chc": "大 林(九老區廳)",
+   "stn_nm_eng": "Daerim (Guro-gu Office)",
+   "stn_nm_chn": "大林(九老区厅)",
+   "stn_nm_jpn": "テリム"
+ },
+ {
+   "stn_nm": "신도림",
+   "stn_nm_chc": "新 道 林",
+   "stn_nm_eng": "Sindorim",
+   "stn_nm_chn": "新道林",
+   "stn_nm_jpn": "シンドリム"
+ },
+ {
+   "stn_nm": "문래",
+   "stn_nm_chc": "文 來",
+   "stn_nm_eng": "Mullae",
+   "stn_nm_chn": "文来",
+   "stn_nm_jpn": "ムンレ"
+ },
+ {
+   "stn_nm": "영등포구청",
+   "stn_nm_chc": "永登浦區廳",
+   "stn_nm_eng": "Yeongdeungpo-gu Office",
+   "stn_nm_chn": "永登浦区厅",
+   "stn_nm_jpn": "ヨンドゥンポグチョン"
+ },
+ {
+   "stn_nm": "당산",
+   "stn_nm_chc": "堂 山",
+   "stn_nm_eng": "Dangsan",
+   "stn_nm_chn": "堂山",
+   "stn_nm_jpn": "タンサン"
+ },
+ {
+   "stn_nm": "합정",
+   "stn_nm_chc": "合 井",
+   "stn_nm_eng": "Hapjeong",
+   "stn_nm_chn": "合井",
+   "stn_nm_jpn": "ハプチョン"
+ },
+ {
+   "stn_nm": "홍대입구",
+   "stn_nm_chc": "弘 大 入 口",
+   "stn_nm_eng": "Hongik Univ.",
+   "stn_nm_chn": "弘益大学",
+   "stn_nm_jpn": "ホンデイック"
+ },
+ {
+   "stn_nm": "신촌(지하)",
+   "stn_nm_chc": "新 村",
+   "stn_nm_eng": "Sinchon",
+   "stn_nm_chn": "新村",
+   "stn_nm_jpn": "シンチョン(新村)"
+ },
+ {
+   "stn_nm": "이대",
+   "stn_nm_chc": "梨 大",
+   "stn_nm_eng": "Ewha Womans Univ.",
+   "stn_nm_chn": "梨花女子大学",
+   "stn_nm_jpn": "イデ"
+ },
+ {
+   "stn_nm": "아현",
+   "stn_nm_chc": "阿 峴",
+   "stn_nm_eng": "Ahyeon",
+   "stn_nm_chn": "阿岘",
+   "stn_nm_jpn": "アヒョン"
+ },
+ {
+   "stn_nm": "충정로(경기대입구)",
+   "stn_nm_chc": "忠 正 路(京畿大入口)",
+   "stn_nm_eng": "Chungjeongno (Kyonggi Univ.)",
+   "stn_nm_chn": "忠正路(京畿大学)",
+   "stn_nm_jpn": "チュンジョンノ"
+ },
+ {
+   "stn_nm": "용답",
+   "stn_nm_chc": "龍 踏",
+   "stn_nm_eng": "Yongdap",
+   "stn_nm_chn": "龙踏",
+   "stn_nm_jpn": "ヨンダプ"
+ },
+ {
+   "stn_nm": "신답",
+   "stn_nm_chc": "新 踏",
+   "stn_nm_eng": "Sindap",
+   "stn_nm_chn": "新踏",
+   "stn_nm_jpn": "シンダプ"
+ },
+ {
+   "stn_nm": "용두(동대문구청)",
+   "stn_nm_chc": "龍 頭(東大門區廳)",
+   "stn_nm_eng": "Yongdu (Dongdaemun-gu Office)",
+   "stn_nm_chn": "龙头(东大门区厅)",
+   "stn_nm_jpn": "ヨンドゥ"
+ },
+ {
+   "stn_nm": "신설동",
+   "stn_nm_chc": "新 設 洞",
+   "stn_nm_eng": "Sinseoldong",
+   "stn_nm_chn": "新设洞",
+   "stn_nm_jpn": "シンソルトン"
+ },
+ {
+   "stn_nm": "도림천",
+   "stn_nm_chc": "道 林 川",
+   "stn_nm_eng": "Dorimcheon",
+   "stn_nm_chn": "道林川",
+   "stn_nm_jpn": "トリムチョン"
+ },
+ {
+   "stn_nm": "양천구청",
+   "stn_nm_chc": "陽 川 區 廳",
+   "stn_nm_eng": "Yangcheon-gu Office",
+   "stn_nm_chn": "阳川区厅",
+   "stn_nm_jpn": "ヤンチョングチョン"
+ },
+ {
+   "stn_nm": "신정네거리",
+   "stn_nm_chc": "新亭네거리",
+   "stn_nm_eng": "Sinjeongnegeori",
+   "stn_nm_chn": "新亭十字路口",
+   "stn_nm_jpn": "シンジョンネゴリ"
+ },
+ {
+   "stn_nm": "까치산",
+   "stn_nm_chc": "까치山",
+   "stn_nm_eng": "Kkachisan",
+   "stn_nm_chn": "喜鹊山",
+   "stn_nm_jpn": "カチサン"
+ },
+ {
+   "stn_nm": "지축",
+   "stn_nm_chc": "紙 木丑",
+   "stn_nm_eng": "Jichuk",
+   "stn_nm_chn": "纸杻",
+   "stn_nm_jpn": "チチュク"
+ },
+ {
+   "stn_nm": "구파발",
+   "stn_nm_chc": "舊 把 撥",
+   "stn_nm_eng": "Gupabal",
+   "stn_nm_chn": "旧把拨",
+   "stn_nm_jpn": "クパバル"
+ },
+ {
+   "stn_nm": "연신내",
+   "stn_nm_chc": "-",
+   "stn_nm_eng": "Yeonsinnae",
+   "stn_nm_chn": "延新川",
+   "stn_nm_jpn": "ヨンシンネ"
+ },
+ {
+   "stn_nm": "불광",
+   "stn_nm_chc": "佛 光",
+   "stn_nm_eng": "Bulgwang",
+   "stn_nm_chn": "佛光",
+   "stn_nm_jpn": "プルグァン"
+ },
+ {
+   "stn_nm": "녹번",
+   "stn_nm_chc": "碌 磻",
+   "stn_nm_eng": "Nokbeon",
+   "stn_nm_chn": "碌磻",
+   "stn_nm_jpn": "ノッポン"
+ },
+ {
+   "stn_nm": "홍제",
+   "stn_nm_chc": "弘 濟",
+   "stn_nm_eng": "Hongje",
+   "stn_nm_chn": "弘济",
+   "stn_nm_jpn": "ホンジェ"
+ },
+ {
+   "stn_nm": "무악재",
+   "stn_nm_chc": "毋 岳 재",
+   "stn_nm_eng": "Muakjae",
+   "stn_nm_chn": "毋岳岭",
+   "stn_nm_jpn": "ムアクチェ"
+ },
+ {
+   "stn_nm": "독립문",
+   "stn_nm_chc": "獨 立 門",
+   "stn_nm_eng": "Dongnimmun",
+   "stn_nm_chn": "独立门",
+   "stn_nm_jpn": "トンニンムン"
+ },
+ {
+   "stn_nm": "경복궁(정부서울청사)",
+   "stn_nm_chc": "景 福 宮(政府中央廳舍)",
+   "stn_nm_eng": "Gyeongbokgung (Government Complex-Seoul)",
+   "stn_nm_chn": "景福宫(政府首尔厅舍)",
+   "stn_nm_jpn": "キョンボックン"
+ },
+ {
+   "stn_nm": "안국",
+   "stn_nm_chc": "安 國",
+   "stn_nm_eng": "Anguk",
+   "stn_nm_chn": "安国",
+   "stn_nm_jpn": "アングク"
+ },
+ {
+   "stn_nm": "종로3가",
+   "stn_nm_chc": "鍾 路 3 街",
+   "stn_nm_eng": "Jongno 3(sam)ga",
+   "stn_nm_chn": "钟路三街",
+   "stn_nm_jpn": "チョンノサムガ"
+ },
+ {
+   "stn_nm": "을지로3가",
+   "stn_nm_chc": "乙支路 3街",
+   "stn_nm_eng": "Euljiro 3(sam)ga",
+   "stn_nm_chn": "乙支路三街",
+   "stn_nm_jpn": "ウルチロサムガ"
+ },
+ {
+   "stn_nm": "충무로",
+   "stn_nm_chc": "忠 武 路",
+   "stn_nm_eng": "Chungmuro",
+   "stn_nm_chn": "忠武路",
+   "stn_nm_jpn": "チュンムロ"
+ },
+ {
+   "stn_nm": "동대입구",
+   "stn_nm_chc": "東大入口",
+   "stn_nm_eng": "Dongguk Univ.",
+   "stn_nm_chn": "东国大学",
+   "stn_nm_jpn": "トンデイック"
+ },
+ {
+   "stn_nm": "약수",
+   "stn_nm_chc": "藥 水",
+   "stn_nm_eng": "Yaksu",
+   "stn_nm_chn": "药水",
+   "stn_nm_jpn": "ヤクス "
+ },
+ {
+   "stn_nm": "금호",
+   "stn_nm_chc": "金 湖",
+   "stn_nm_eng": "Geumho",
+   "stn_nm_chn": "金湖",
+   "stn_nm_jpn": "クムホ"
+ },
+ {
+   "stn_nm": "옥수",
+   "stn_nm_chc": "玉 水",
+   "stn_nm_eng": "Oksu",
+   "stn_nm_chn": "玉水",
+   "stn_nm_jpn": "オクス"
+ },
+ {
+   "stn_nm": "압구정",
+   "stn_nm_chc": "狎 鷗 亭",
+   "stn_nm_eng": "Apgujeong",
+   "stn_nm_chn": "狎鸥亭",
+   "stn_nm_jpn": "アックジョン"
+ },
+ {
+   "stn_nm": "신사",
+   "stn_nm_chc": "新 沙",
+   "stn_nm_eng": "Sinsa",
+   "stn_nm_chn": "新沙",
+   "stn_nm_jpn": "シンサ"
+ },
+ {
+   "stn_nm": "잠원",
+   "stn_nm_chc": "蠶 院",
+   "stn_nm_eng": "Jamwon",
+   "stn_nm_chn": "蚕院",
+   "stn_nm_jpn": "チャムォン"
+ },
+ {
+   "stn_nm": "고속터미널",
+   "stn_nm_chc": "高速터미널",
+   "stn_nm_eng": "Express Bus Terminal",
+   "stn_nm_chn": "高速巴士客运站",
+   "stn_nm_jpn": "コソクターミナル"
+ },
+ {
+   "stn_nm": "교대(법원, 검찰청)",
+   "stn_nm_chc": "敎 大(法院․檢察廳)",
+   "stn_nm_eng": "Seoul Nat'l Univ. of Education(Court & Prosecutors’ Office)",
+   "stn_nm_chn": "首尔教育大学(法院·检察厅)",
+   "stn_nm_jpn": "キョデ "
+ },
+ {
+   "stn_nm": "남부터미널(예술의전당)",
+   "stn_nm_chc": "南部터미널(藝術의殿堂)",
+   "stn_nm_eng": "Nambu Bus Terminal (Seoul Arts Center)",
+   "stn_nm_chn": "南部客运站(艺术殿堂)",
+   "stn_nm_jpn": "ナンブターミナル"
+ },
+ {
+   "stn_nm": "양재(서초구청)",
+   "stn_nm_chc": "良 才(瑞草區廳)",
+   "stn_nm_eng": "Yangjae (Seocho-gu Office)",
+   "stn_nm_chn": "良才(瑞草区厅)",
+   "stn_nm_jpn": "ヤンジェ"
+ },
+ {
+   "stn_nm": "매봉",
+   "stn_nm_chc": "-",
+   "stn_nm_eng": "Maebong",
+   "stn_nm_chn": "梅峰",
+   "stn_nm_jpn": "メボン"
+ },
+ {
+   "stn_nm": "도곡",
+   "stn_nm_chc": "道 谷",
+   "stn_nm_eng": "Dogok",
+   "stn_nm_chn": "道谷",
+   "stn_nm_jpn": "トゴク"
+ },
+ {
+   "stn_nm": "대치",
+   "stn_nm_chc": "大 峙",
+   "stn_nm_eng": "Daechi",
+   "stn_nm_chn": "大峙",
+   "stn_nm_jpn": "テチ"
+ },
+ {
+   "stn_nm": "학여울",
+   "stn_nm_chc": "鶴 여 울",
+   "stn_nm_eng": "Hangnyeoul",
+   "stn_nm_chn": "鹤滩",
+   "stn_nm_jpn": "ハンニョウル "
+ },
+ {
+   "stn_nm": "대청",
+   "stn_nm_chc": "-",
+   "stn_nm_eng": "Daecheong",
+   "stn_nm_chn": "大厅",
+   "stn_nm_jpn": "テチョン"
+ },
+ {
+   "stn_nm": "일원",
+   "stn_nm_chc": "逸 院",
+   "stn_nm_eng": "Irwon",
+   "stn_nm_chn": "逸院",
+   "stn_nm_jpn": "イルォン"
+ },
+ {
+   "stn_nm": "수서",
+   "stn_nm_chc": "水 西",
+   "stn_nm_eng": "Suseo",
+   "stn_nm_chn": "水西",
+   "stn_nm_jpn": "スソ"
+ },
+ {
+   "stn_nm": "가락시장",
+   "stn_nm_chc": "可樂市長",
+   "stn_nm_eng": "Garak Market",
+   "stn_nm_chn": "可乐市场",
+   "stn_nm_jpn": "カラク・シジャン"
+ },
+ {
+   "stn_nm": "경찰병원",
+   "stn_nm_chc": "警察病院",
+   "stn_nm_eng": "National Police Hospital",
+   "stn_nm_chn": "警察医院",
+   "stn_nm_jpn": "キョンチャル・ピョンウォン"
+ },
+ {
+   "stn_nm": "오금",
+   "stn_nm_chc": "梧 琴",
+   "stn_nm_eng": "Ogeum",
+   "stn_nm_chn": "梧琴",
+   "stn_nm_jpn": "オグム"
+ },
+ {
+   "stn_nm": "당고개",
+   "stn_nm_chc": "-",
+   "stn_nm_eng": "Danggogae",
+   "stn_nm_chn": "堂岭",
+   "stn_nm_jpn": "タンゴゲ"
+ },
+ {
+   "stn_nm": "상계",
+   "stn_nm_chc": "上 溪",
+   "stn_nm_eng": "Sanggye",
+   "stn_nm_chn": "上溪",
+   "stn_nm_jpn": "サンゲ"
+ },
+ {
+   "stn_nm": "노원",
+   "stn_nm_chc": "蘆 原",
+   "stn_nm_eng": "Nowon",
+   "stn_nm_chn": "芦原",
+   "stn_nm_jpn": "ノウォン"
+ },
+ {
+   "stn_nm": "창동",
+   "stn_nm_chc": "倉 洞",
+   "stn_nm_eng": "Changdong",
+   "stn_nm_chn": "仓洞",
+   "stn_nm_jpn": "チャンドン"
+ },
+ {
+   "stn_nm": "쌍문",
+   "stn_nm_chc": "雙 門",
+   "stn_nm_eng": "Ssangmun",
+   "stn_nm_chn": "双门",
+   "stn_nm_jpn": "サンムン"
+ },
+ {
+   "stn_nm": "수유(강북구청)",
+   "stn_nm_chc": "水 踰(江北區廳)",
+   "stn_nm_eng": "Suyu (Gangbuk-gu Office)",
+   "stn_nm_chn": "水逾(江北区厅)",
+   "stn_nm_jpn": "スユ"
+ },
+ {
+   "stn_nm": "미아(서울사이버대학)",
+   "stn_nm_chc": "彌 阿(서울사이버大學)",
+   "stn_nm_eng": "Mia (Seoul Cyber Univ.)",
+   "stn_nm_chn": "弥阿(首尔网络大学)",
+   "stn_nm_jpn": "ミア"
+ },
+ {
+   "stn_nm": "미아사거리 ",
+   "stn_nm_chc": "彌阿사거리",
+   "stn_nm_eng": "Miasageori ",
+   "stn_nm_chn": "弥阿十字路口",
+   "stn_nm_jpn": "ミアサゴリ"
+ },
+ {
+   "stn_nm": "길음",
+   "stn_nm_chc": "吉 音",
+   "stn_nm_eng": "Gireum",
+   "stn_nm_chn": "吉音",
+   "stn_nm_jpn": "キルム"
+ },
+ {
+   "stn_nm": "성신여대입구(돈암)",
+   "stn_nm_chc": "誠信女大入口(敦岩)",
+   "stn_nm_eng": "Sungshin Women's Univ. (Donam)",
+   "stn_nm_chn": "诚信女子大学(敦岩)",
+   "stn_nm_jpn": "ソンシンヨデイック"
+ },
+ {
+   "stn_nm": "한성대입구(삼선교)",
+   "stn_nm_chc": "漢城大入口(三仙橋)",
+   "stn_nm_eng": "Hansung Univ. (Samseongyo)",
+   "stn_nm_chn": "汉城大学(三仙桥)",
+   "stn_nm_jpn": "ハンソンデイック"
+ },
+ {
+   "stn_nm": "혜화",
+   "stn_nm_chc": "惠 化",
+   "stn_nm_eng": "Hyehwa",
+   "stn_nm_chn": "惠化",
+   "stn_nm_jpn": "ヘファ"
+ },
+ {
+   "stn_nm": "동대문",
+   "stn_nm_chc": "東 大 門",
+   "stn_nm_eng": "Dongdaemun",
+   "stn_nm_chn": "东大门",
+   "stn_nm_jpn": "トンデムン"
+ },
+ {
+   "stn_nm": "동대문역사문화공원(DDP)",
+   "stn_nm_chc": "東大門歷史文化公園(DDP)",
+   "stn_nm_eng": "Dongdaemun History & Culture Park(DDP)",
+   "stn_nm_chn": "东大门历史文化公园(DDP)",
+   "stn_nm_jpn": "トンデムンヨクサムンファゴンウォン(DDP)"
+ },
+ {
+   "stn_nm": "충무로",
+   "stn_nm_chc": "忠 武 路",
+   "stn_nm_eng": "Chungmuro",
+   "stn_nm_chn": "忠武路",
+   "stn_nm_jpn": "チュンムロ"
+ },
+ {
+   "stn_nm": "명동",
+   "stn_nm_chc": "明 洞",
+   "stn_nm_eng": "Myeongdong",
+   "stn_nm_chn": "明洞",
+   "stn_nm_jpn": "ミョンドン"
+ },
+ {
+   "stn_nm": "회현(남대문시장)",
+   "stn_nm_chc": "會 賢(南大門市場)",
+   "stn_nm_eng": "Hoehyeon (Namdaemun Market)",
+   "stn_nm_chn": "会贤(南大门市场)",
+   "stn_nm_jpn": "フェヒョン"
+ },
+ {
+   "stn_nm": "서울역",
+   "stn_nm_chc": "-",
+   "stn_nm_eng": "Seoul Station",
+   "stn_nm_chn": "首尔站",
+   "stn_nm_jpn": "ソウルヨク"
+ },
+ {
+   "stn_nm": "숙대입구(갈월)",
+   "stn_nm_chc": "淑大入口(葛月)",
+   "stn_nm_eng": "Sookmyung Women's Univ. (Garwol)",
+   "stn_nm_chn": "淑明女子大学(葛月)",
+   "stn_nm_jpn": "スクテイック"
+ },
+ {
+   "stn_nm": "삼각지",
+   "stn_nm_chc": "三 角 地",
+   "stn_nm_eng": "Samgakji",
+   "stn_nm_chn": "三角地",
+   "stn_nm_jpn": "サムガクチ"
+ },
+ {
+   "stn_nm": "신용산",
+   "stn_nm_chc": "新 龍 山",
+   "stn_nm_eng": "Sinyongsan",
+   "stn_nm_chn": "新龙山",
+   "stn_nm_jpn": "シニョンサン"
+ },
+ {
+   "stn_nm": "이촌(국립중앙박물관)",
+   "stn_nm_chc": "二 村(國立中央博物館)",
+   "stn_nm_eng": "Ichon (National Museum of Korea)",
+   "stn_nm_chn": "二村(国立中央博物馆)",
+   "stn_nm_jpn": "イチョン"
+ },
+ {
+   "stn_nm": "동작(현충원)",
+   "stn_nm_chc": "銅 雀 (顯忠院)",
+   "stn_nm_eng": "Dongjak (Seoul National Cemetery)",
+   "stn_nm_chn": "铜雀(显忠院)",
+   "stn_nm_jpn": "トンジャク"
+ },
+ {
+   "stn_nm": "총신대입구(이수)",
+   "stn_nm_chc": "總神大入口(梨水)",
+   "stn_nm_eng": "Chongshin Univ. (Isu)",
+   "stn_nm_chn": "总神大学(梨水)",
+   "stn_nm_jpn": "チョンシンデイック"
+ },
+ {
+   "stn_nm": "사당",
+   "stn_nm_chc": "舍 堂",
+   "stn_nm_eng": "Sadang",
+   "stn_nm_chn": "舍堂",
+   "stn_nm_jpn": "サダン"
+ },
+ {
+   "stn_nm": "남태령",
+   "stn_nm_chc": "南 泰 嶺",
+   "stn_nm_eng": "Namtaeryeong",
+   "stn_nm_chn": "南泰岭",
+   "stn_nm_jpn": "ナムテリョン"
+ },
+ {
+   "stn_nm": "방화",
+   "stn_nm_chc": "傍花",
+   "stn_nm_eng": "Banghwa",
+   "stn_nm_chn": "傍花",
+   "stn_nm_jpn": "パンファ"
+ },
+ {
+   "stn_nm": "개화산",
+   "stn_nm_chc": "開花山",
+   "stn_nm_eng": "Gaehwasan",
+   "stn_nm_chn": "开花山",
+   "stn_nm_jpn": "ケファサン"
+ },
+ {
+   "stn_nm": "김포공항",
+   "stn_nm_chc": "金浦空港",
+   "stn_nm_eng": "Gimpo Int'l Airport",
+   "stn_nm_chn": "金浦机场",
+   "stn_nm_jpn": "キンポゴンハン"
+ },
+ {
+   "stn_nm": "송정",
+   "stn_nm_chc": "松亭",
+   "stn_nm_eng": "Songjeong",
+   "stn_nm_chn": "松亭",
+   "stn_nm_jpn": "ソンジョン"
+ },
+ {
+   "stn_nm": "마곡",
+   "stn_nm_chc": "麻谷",
+   "stn_nm_eng": "Magok",
+   "stn_nm_chn": "麻谷",
+   "stn_nm_jpn": "マゴク"
+ },
+ {
+   "stn_nm": "발산",
+   "stn_nm_chc": "鉢山",
+   "stn_nm_eng": "Balsan",
+   "stn_nm_chn": "钵山",
+   "stn_nm_jpn": "パルサン"
+ },
+ {
+   "stn_nm": "우장산",
+   "stn_nm_chc": "雨裝山",
+   "stn_nm_eng": "Ujangsan",
+   "stn_nm_chn": "雨装山",
+   "stn_nm_jpn": "ウジャンサン"
+ },
+ {
+   "stn_nm": "화곡",
+   "stn_nm_chc": "禾谷",
+   "stn_nm_eng": "Hwagok",
+   "stn_nm_chn": "禾谷",
+   "stn_nm_jpn": "ファゴク"
+ },
+ {
+   "stn_nm": "까치산",
+   "stn_nm_chc": "까치山",
+   "stn_nm_eng": "Kkachisan",
+   "stn_nm_chn": "喜鹊山",
+   "stn_nm_jpn": "カチサン"
+ },
+ {
+   "stn_nm": "신정(은행정)",
+   "stn_nm_chc": "新亭(銀杏亭)",
+   "stn_nm_eng": "Sinjeong(Eunhaengjeong)",
+   "stn_nm_chn": "新亭(银杏亭)",
+   "stn_nm_jpn": "シンジョン"
+ },
+ {
+   "stn_nm": "목동",
+   "stn_nm_chc": "木洞",
+   "stn_nm_eng": "Mok-dong",
+   "stn_nm_chn": "木洞",
+   "stn_nm_jpn": "モクトン"
+ },
+ {
+   "stn_nm": "오목교(목동운동장앞)",
+   "stn_nm_chc": "梧木橋(木洞運動場앞)",
+   "stn_nm_eng": "Omokgyo(Mokdong Stadium)",
+   "stn_nm_chn": "梧木桥(木洞运动场)",
+   "stn_nm_jpn": "オモッキョ"
+ },
+ {
+   "stn_nm": "양평",
+   "stn_nm_chc": "楊坪",
+   "stn_nm_eng": "Yangpyeong",
+   "stn_nm_chn": "杨坪",
+   "stn_nm_jpn": "ヤンピョン"
+ },
+ {
+   "stn_nm": "영등포구청",
+   "stn_nm_chc": "永登浦區廳",
+   "stn_nm_eng": "Yeongdeungpo-gu Office",
+   "stn_nm_chn": "永登浦区厅",
+   "stn_nm_jpn": "ヨンドゥンポグチョン"
+ },
+ {
+   "stn_nm": "영등포시장",
+   "stn_nm_chc": "永登浦市場",
+   "stn_nm_eng": "Yeongdeungpo Market",
+   "stn_nm_chn": "永登浦市场",
+   "stn_nm_jpn": "ヨンドゥンポシジャン"
+ },
+ {
+   "stn_nm": "신길",
+   "stn_nm_chc": "新吉",
+   "stn_nm_eng": "Singil",
+   "stn_nm_chn": "新吉",
+   "stn_nm_jpn": "シンギル"
+ },
+ {
+   "stn_nm": "여의도",
+   "stn_nm_chc": "汝矣島",
+   "stn_nm_eng": "Yeouido",
+   "stn_nm_chn": "汝矣岛",
+   "stn_nm_jpn": "ヨイド"
+ },
+ {
+   "stn_nm": "여의나루",
+   "stn_nm_chc": "여의나루",
+   "stn_nm_eng": "Yeouinaru",
+   "stn_nm_chn": "汝矣渡口",
+   "stn_nm_jpn": "ヨイナル"
+ },
+ {
+   "stn_nm": "마포",
+   "stn_nm_chc": "麻浦",
+   "stn_nm_eng": "Mapo",
+   "stn_nm_chn": "麻浦",
+   "stn_nm_jpn": "マポ"
+ },
+ {
+   "stn_nm": "공덕",
+   "stn_nm_chc": "孔德",
+   "stn_nm_eng": "Gongdeok",
+   "stn_nm_chn": "孔德",
+   "stn_nm_jpn": "コンドク"
+ },
+ {
+   "stn_nm": "애오개",
+   "stn_nm_chc": "애오개",
+   "stn_nm_eng": "Aeogae",
+   "stn_nm_chn": "儿岭",
+   "stn_nm_jpn": "エオゲ"
+ },
+ {
+   "stn_nm": "충정로(경기대입구)",
+   "stn_nm_chc": "忠正路(京畿大入口)",
+   "stn_nm_eng": "Chungjeongno(Kyonggi Univ.)",
+   "stn_nm_chn": "忠正路(京畿大学)",
+   "stn_nm_jpn": "チュンジョンノ"
+ },
+ {
+   "stn_nm": "서대문",
+   "stn_nm_chc": "西大門",
+   "stn_nm_eng": "Seodaemun",
+   "stn_nm_chn": "西大门",
+   "stn_nm_jpn": "ソデムン"
+ },
+ {
+   "stn_nm": "광화문(세종문화회관)",
+   "stn_nm_chc": "光化門(世宗文化會館)",
+   "stn_nm_eng": "Gwanghwamun(Sejong Center for the Performing Arts)",
+   "stn_nm_chn": "光化门(世宗文化会馆)",
+   "stn_nm_jpn": "クァンファムン"
+ },
+ {
+   "stn_nm": "종로3가(탑골공원)",
+   "stn_nm_chc": "鐘路3街(탑골공원)",
+   "stn_nm_eng": "Jongno 3(sam)ga(Tapgol Park)",
+   "stn_nm_chn": "钟路三街(塔谷公园)",
+   "stn_nm_jpn": "チョンノサムガ"
+ },
+ {
+   "stn_nm": "을지로4가",
+   "stn_nm_chc": "乙支路4街",
+   "stn_nm_eng": "Euljiro 4(sa)ga",
+   "stn_nm_chn": "乙支路四街",
+   "stn_nm_jpn": "ウルチロサガ"
+ },
+ {
+   "stn_nm": "동대문역사문화공원(DDP)",
+   "stn_nm_chc": "東大門歷史文化公園(DDP)",
+   "stn_nm_eng": "Dongdaemun History & Culture Park(DDP)",
+   "stn_nm_chn": "东大门历史文化公园(DDP)",
+   "stn_nm_jpn": "トンデムンヨクサムンファゴンウォン(DDP)"
+ },
+ {
+   "stn_nm": "청구",
+   "stn_nm_chc": "靑丘",
+   "stn_nm_eng": "Cheonggu",
+   "stn_nm_chn": "青丘",
+   "stn_nm_jpn": "チョング"
+ },
+ {
+   "stn_nm": "신금호",
+   "stn_nm_chc": "新金湖",
+   "stn_nm_eng": "Singeumho",
+   "stn_nm_chn": "新金湖",
+   "stn_nm_jpn": "シングムホ"
+ },
+ {
+   "stn_nm": "행당",
+   "stn_nm_chc": "杏堂",
+   "stn_nm_eng": "Haengdang",
+   "stn_nm_chn": "杏堂",
+   "stn_nm_jpn": "ヘンダン"
+ },
+ {
+   "stn_nm": "왕십리(성동구청)",
+   "stn_nm_chc": "往十里(城東區廳)",
+   "stn_nm_eng": "Wangsimni(Seongdong-gu Office)",
+   "stn_nm_chn": "往十里(城东区厅)",
+   "stn_nm_jpn": "ワンシムニ(ソンドン区庁)"
+ },
+ {
+   "stn_nm": "마장",
+   "stn_nm_chc": "馬場",
+   "stn_nm_eng": "Majang",
+   "stn_nm_chn": "马场",
+   "stn_nm_jpn": "マジャン"
+ },
+ {
+   "stn_nm": "답십리",
+   "stn_nm_chc": "踏十里",
+   "stn_nm_eng": "Dapsimni",
+   "stn_nm_chn": "踏十里",
+   "stn_nm_jpn": "タプシムニ"
+ },
+ {
+   "stn_nm": "장한평",
+   "stn_nm_chc": "長漢坪",
+   "stn_nm_eng": "Janghanpyeong",
+   "stn_nm_chn": "长汉坪",
+   "stn_nm_jpn": "チャンハンピョン"
+ },
+ {
+   "stn_nm": "군자(능동)",
+   "stn_nm_chc": "君子(陵洞)",
+   "stn_nm_eng": "Gunja(Neung-dong)",
+   "stn_nm_chn": "君子(陵洞)",
+   "stn_nm_jpn": "クンジャ"
+ },
+ {
+   "stn_nm": "아차산(어린이대공원후문)",
+   "stn_nm_chc": "峨嵯山(어린이大公園後門)",
+   "stn_nm_eng": "Achasan(Rear Entrance to Seoul Children's Grand Park)",
+   "stn_nm_chn": "峨嵯山(儿童大公园后门)",
+   "stn_nm_jpn": "アチャサン"
+ },
+ {
+   "stn_nm": "광나루(장신대)",
+   "stn_nm_chc": "광나루(長神大)",
+   "stn_nm_eng": "Gwangnaru(Presbyterian University & Theological Seminary)",
+   "stn_nm_chn": "广渡口(长神大学)",
+   "stn_nm_jpn": "クァンナル"
+ },
+ {
+   "stn_nm": "천호(풍납토성)",
+   "stn_nm_chc": "千戶(風納土城)",
+   "stn_nm_eng": "Cheonho(Pungnaptoseong)",
+   "stn_nm_chn": "千戶(风纳土城)",
+   "stn_nm_jpn": "チョンホ"
+ },
+ {
+   "stn_nm": "강동",
+   "stn_nm_chc": "江東",
+   "stn_nm_eng": "Gangdong",
+   "stn_nm_chn": "江东",
+   "stn_nm_jpn": "カンドン"
+ },
+ {
+   "stn_nm": "길동",
+   "stn_nm_chc": "吉洞",
+   "stn_nm_eng": "Gil-dong",
+   "stn_nm_chn": "吉洞",
+   "stn_nm_jpn": "キルトン"
+ },
+ {
+   "stn_nm": "굽은다리(강동구민회관앞)",
+   "stn_nm_chc": "굽은다리(江東區民會館앞)",
+   "stn_nm_eng": "Gubeundari(Gangdong Community Center )",
+   "stn_nm_chn": "曲桥(江东区民会馆)",
+   "stn_nm_jpn": "クブンダリ"
+ },
+ {
+   "stn_nm": "명일",
+   "stn_nm_chc": "明逸",
+   "stn_nm_eng": "Myeongil",
+   "stn_nm_chn": "明逸",
+   "stn_nm_jpn": "ミョンイル"
+ },
+ {
+   "stn_nm": "고덕",
+   "stn_nm_chc": "高德",
+   "stn_nm_eng": "Godeok",
+   "stn_nm_chn": "高德",
+   "stn_nm_jpn": "コドク"
+ },
+ {
+   "stn_nm": "상일동",
+   "stn_nm_chc": "上一洞",
+   "stn_nm_eng": "Sangil-dong",
+   "stn_nm_chn": "上一洞",
+   "stn_nm_jpn": "サンイルトン"
+ },
+ {
+   "stn_nm": "둔촌동",
+   "stn_nm_chc": "遁村洞",
+   "stn_nm_eng": "Dunchon-dong",
+   "stn_nm_chn": "遁村洞",
+   "stn_nm_jpn": "トゥンチョンドン"
+ },
+ {
+   "stn_nm": "올림픽공원(한국체대)",
+   "stn_nm_chc": "올림픽公園(韓國體大)",
+   "stn_nm_eng": "Olympic Park(Korea National Sport University)",
+   "stn_nm_chn": "奥林匹克公园(韩国体育大学)",
+   "stn_nm_jpn": "オリンピックゴンウォン"
+ },
+ {
+   "stn_nm": "방이",
+   "stn_nm_chc": "芳荑",
+   "stn_nm_eng": "Bangi",
+   "stn_nm_chn": "芳荑",
+   "stn_nm_jpn": "パンイ"
+ },
+ {
+   "stn_nm": "오금",
+   "stn_nm_chc": "梧琴",
+   "stn_nm_eng": "Ogeum",
+   "stn_nm_chn": "梧琴",
+   "stn_nm_jpn": "オグム"
+ },
+ {
+   "stn_nm": "개롱",
+   "stn_nm_chc": "開籠",
+   "stn_nm_eng": "Gaerong",
+   "stn_nm_chn": "开笼",
+   "stn_nm_jpn": "ケロン"
+ },
+ {
+   "stn_nm": "거여",
+   "stn_nm_chc": "巨余",
+   "stn_nm_eng": "Geoyeo",
+   "stn_nm_chn": "巨余",
+   "stn_nm_jpn": "コヨ"
+ },
+ {
+   "stn_nm": "마천",
+   "stn_nm_chc": "馬川",
+   "stn_nm_eng": "Macheon",
+   "stn_nm_chn": "马川",
+   "stn_nm_jpn": "マチョン"
+ },
+ {
+   "stn_nm": "응암",
+   "stn_nm_chc": "鷹岩",
+   "stn_nm_eng": "Eungam",
+   "stn_nm_chn": "鹰岩",
+   "stn_nm_jpn": "ウンアム"
+ },
+ {
+   "stn_nm": "역촌",
+   "stn_nm_chc": "驛村",
+   "stn_nm_eng": "Yeokchon",
+   "stn_nm_chn": "驿村",
+   "stn_nm_jpn": "ヨクチョン"
+ },
+ {
+   "stn_nm": "불광",
+   "stn_nm_chc": "佛光",
+   "stn_nm_eng": "Bulgwang",
+   "stn_nm_chn": "佛光",
+   "stn_nm_jpn": "プルグァン"
+ },
+ {
+   "stn_nm": "독바위",
+   "stn_nm_chc": "독바위",
+   "stn_nm_eng": "Dokbawi",
+   "stn_nm_chn": "瓮岩",
+   "stn_nm_jpn": "トッパウィ"
+ },
+ {
+   "stn_nm": "연신내",
+   "stn_nm_chc": "연신내",
+   "stn_nm_eng": "Yeonsinnae",
+   "stn_nm_chn": "延新川",
+   "stn_nm_jpn": "ヨンシンネ"
+ },
+ {
+   "stn_nm": "구산",
+   "stn_nm_chc": "龜山",
+   "stn_nm_eng": "Gusan",
+   "stn_nm_chn": "龟山",
+   "stn_nm_jpn": "クサン"
+ },
+ {
+   "stn_nm": "새절(신사)",
+   "stn_nm_chc": "새절(新寺)",
+   "stn_nm_eng": "Saejeol(Sinsa)",
+   "stn_nm_chn": "赛折(新寺)",
+   "stn_nm_jpn": "セジョル"
+ },
+ {
+   "stn_nm": "증산(명지대앞)",
+   "stn_nm_chc": "繒山(明知大앞)",
+   "stn_nm_eng": "Jeungsan(Myongji Univ.)",
+   "stn_nm_chn": "缯山(明知大学)",
+   "stn_nm_jpn": "チュンサン"
+ },
+ {
+   "stn_nm": "디지털미디어시티",
+   "stn_nm_chc": "-",
+   "stn_nm_eng": "Digital Media City",
+   "stn_nm_chn": "数码媒体城",
+   "stn_nm_jpn": "デジタルメディアシティ"
+ },
+ {
+   "stn_nm": "월드컵경기장(성산)",
+   "stn_nm_chc": "월드컵競技場(城山)",
+   "stn_nm_eng": "World Cup Stadium(Seongsan)",
+   "stn_nm_chn": "世界杯体育场(城山)",
+   "stn_nm_jpn": "ワールドカップ・キョンギジャン"
+ },
+ {
+   "stn_nm": "마포구청",
+   "stn_nm_chc": "麻浦區廳",
+   "stn_nm_eng": "Mapo-gu Office",
+   "stn_nm_chn": "麻浦区厅",
+   "stn_nm_jpn": "マポグチョン"
+ },
+ {
+   "stn_nm": "망원",
+   "stn_nm_chc": "望遠",
+   "stn_nm_eng": "Mangwon",
+   "stn_nm_chn": "望远",
+   "stn_nm_jpn": "マンウォン"
+ },
+ {
+   "stn_nm": "합정",
+   "stn_nm_chc": "合井",
+   "stn_nm_eng": "Hapjeong",
+   "stn_nm_chn": "合井",
+   "stn_nm_jpn": "ハプチョン"
+ },
+ {
+   "stn_nm": "상수",
+   "stn_nm_chc": "上水",
+   "stn_nm_eng": "Sangsu",
+   "stn_nm_chn": "上水",
+   "stn_nm_jpn": "サンス"
+ },
+ {
+   "stn_nm": "광흥창(서강)",
+   "stn_nm_chc": "廣興倉(西江)",
+   "stn_nm_eng": "Gwangheungchang(Seogang)",
+   "stn_nm_chn": "广兴仓(西江)",
+   "stn_nm_jpn": "クァンフンチャン"
+ },
+ {
+   "stn_nm": "대흥(서강대앞)",
+   "stn_nm_chc": "大興(西江大앞)",
+   "stn_nm_eng": "Daeheung(Sogang Univ.)",
+   "stn_nm_chn": "大兴(西江大学)",
+   "stn_nm_jpn": "テフン"
+ },
+ {
+   "stn_nm": "공덕",
+   "stn_nm_chc": "孔德",
+   "stn_nm_eng": "Gongdeok",
+   "stn_nm_chn": "孔德",
+   "stn_nm_jpn": "コンドク"
+ },
+ {
+   "stn_nm": "효창공원앞",
+   "stn_nm_chc": "孝昌公園앞",
+   "stn_nm_eng": "Hyochang Park ",
+   "stn_nm_chn": "孝昌公园",
+   "stn_nm_jpn": "ヒョチャンゴンウォンアプ"
+ },
+ {
+   "stn_nm": "삼각지",
+   "stn_nm_chc": "三角地",
+   "stn_nm_eng": "Samgakji",
+   "stn_nm_chn": "三角地",
+   "stn_nm_jpn": "サムガクチ"
+ },
+ {
+   "stn_nm": "녹사평(용산구청)",
+   "stn_nm_chc": "綠莎坪(龍山區廳)",
+   "stn_nm_eng": "Noksapyeong(Yongsan-gu Office)",
+   "stn_nm_chn": "绿莎坪(龙山区厅)",
+   "stn_nm_jpn": "ノッサピョン"
+ },
+ {
+   "stn_nm": "이태원",
+   "stn_nm_chc": "梨泰院",
+   "stn_nm_eng": "Itaewon",
+   "stn_nm_chn": "梨泰院",
+   "stn_nm_jpn": "イテウォン"
+ },
+ {
+   "stn_nm": "한강진",
+   "stn_nm_chc": "漢江鎭",
+   "stn_nm_eng": "Hangangjin",
+   "stn_nm_chn": "汉江镇",
+   "stn_nm_jpn": "ハンガンジン"
+ },
+ {
+   "stn_nm": "버티고개",
+   "stn_nm_chc": "버티고개",
+   "stn_nm_eng": "Beotigogae",
+   "stn_nm_chn": "波堤岭",
+   "stn_nm_jpn": "ポティゴゲ"
+ },
+ {
+   "stn_nm": "약수",
+   "stn_nm_chc": "藥水",
+   "stn_nm_eng": "Yaksu",
+   "stn_nm_chn": "药水",
+   "stn_nm_jpn": "ヤッス"
+ },
+ {
+   "stn_nm": "청구",
+   "stn_nm_chc": "靑丘",
+   "stn_nm_eng": "Cheonggu",
+   "stn_nm_chn": "青丘",
+   "stn_nm_jpn": "チョング"
+ },
+ {
+   "stn_nm": "신당",
+   "stn_nm_chc": "新堂",
+   "stn_nm_eng": "Sindang",
+   "stn_nm_chn": "新堂",
+   "stn_nm_jpn": "シンダン"
+ },
+ {
+   "stn_nm": "동묘앞",
+   "stn_nm_chc": "東廟앞",
+   "stn_nm_eng": "Dongmyo",
+   "stn_nm_chn": "东庙",
+   "stn_nm_jpn": "トンミョアプ"
+ },
+ {
+   "stn_nm": "창신",
+   "stn_nm_chc": "昌信",
+   "stn_nm_eng": "Changsin",
+   "stn_nm_chn": "昌信",
+   "stn_nm_jpn": "チャンシン"
+ },
+ {
+   "stn_nm": "보문",
+   "stn_nm_chc": "普門",
+   "stn_nm_eng": "Bomun",
+   "stn_nm_chn": "普门",
+   "stn_nm_jpn": "ポムン"
+ },
+ {
+   "stn_nm": "안암(고대병원앞)",
+   "stn_nm_chc": "安岩(高大病院앞)",
+   "stn_nm_eng": "Anam(Korea Univ. Hospital)",
+   "stn_nm_chn": "安岩(高丽大学医院)",
+   "stn_nm_jpn": "アナム"
+ },
+ {
+   "stn_nm": "고려대(종암)",
+   "stn_nm_chc": "高麗大(鍾岩)",
+   "stn_nm_eng": "Korea Univ.(Jongam)",
+   "stn_nm_chn": "高丽大学(钟岩)",
+   "stn_nm_jpn": "コリョデ"
+ },
+ {
+   "stn_nm": "월곡(동덕여대)",
+   "stn_nm_chc": "月谷(同德女大)",
+   "stn_nm_eng": "Wolgok(Dongduk Women's Univ.)",
+   "stn_nm_chn": "月谷(同德女子大学)",
+   "stn_nm_jpn": "ウォルゴク"
+ },
+ {
+   "stn_nm": "상월곡(한국과학기술연구원)",
+   "stn_nm_chc": "上月谷(韓國科學技術硏究院)",
+   "stn_nm_eng": "Sangwolgok(KIST) ",
+   "stn_nm_chn": "上月谷(韩国科学技术硏究院)",
+   "stn_nm_jpn": "サンウォルゴク"
+ },
+ {
+   "stn_nm": "돌곶이",
+   "stn_nm_chc": "돌곶이",
+   "stn_nm_eng": "Dolgoji",
+   "stn_nm_chn": "石串",
+   "stn_nm_jpn": "トルゴジ"
+ },
+ {
+   "stn_nm": "석계",
+   "stn_nm_chc": "石溪",
+   "stn_nm_eng": "Seokgye",
+   "stn_nm_chn": "石溪",
+   "stn_nm_jpn": "ソッケ"
+ },
+ {
+   "stn_nm": "태릉입구",
+   "stn_nm_chc": "泰陵入口",
+   "stn_nm_eng": "Taereung",
+   "stn_nm_chn": "泰陵",
+   "stn_nm_jpn": "テルンイック"
+ },
+ {
+   "stn_nm": "화랑대 (서울여대입구)",
+   "stn_nm_chc": "花郞臺(서울女大入口)",
+   "stn_nm_eng": "Hwarangdae(Seoul Women's Univ.)",
+   "stn_nm_chn": "花郞台(首尔女子大学)",
+   "stn_nm_jpn": "ファランデ"
+ },
+ {
+   "stn_nm": "봉화산(서울의료원)",
+   "stn_nm_chc": "烽火山(서울醫療院)",
+   "stn_nm_eng": "Bonghwasan(Seoul Medical Center)",
+   "stn_nm_chn": "烽火山(首尔医疗院)",
+   "stn_nm_jpn": "ボンファサン"
+ },
+ {
+   "stn_nm": "신내",
+   "stn_nm_chc": "新內",
+   "stn_nm_eng": "Sinnae",
+   "stn_nm_chn": "新內",
+   "stn_nm_jpn": "シンネ"
+ },
+ {
+   "stn_nm": "장암",
+   "stn_nm_chc": "長岩",
+   "stn_nm_eng": "Jangam",
+   "stn_nm_chn": "长岩",
+   "stn_nm_jpn": "チャンアム"
+ },
+ {
+   "stn_nm": "도봉산",
+   "stn_nm_chc": "道峰山",
+   "stn_nm_eng": "Dobongsan",
+   "stn_nm_chn": "道峰山",
+   "stn_nm_jpn": "トボンサン"
+ },
+ {
+   "stn_nm": "수락산",
+   "stn_nm_chc": "水落山",
+   "stn_nm_eng": "Suraksan",
+   "stn_nm_chn": "水落山",
+   "stn_nm_jpn": "スラッサン"
+ },
+ {
+   "stn_nm": "마들",
+   "stn_nm_chc": "마들",
+   "stn_nm_eng": "Madeul",
+   "stn_nm_chn": "马得",
+   "stn_nm_jpn": "マドゥル"
+ },
+ {
+   "stn_nm": "노원",
+   "stn_nm_chc": "蘆原",
+   "stn_nm_eng": "Nowon",
+   "stn_nm_chn": "芦原",
+   "stn_nm_jpn": "ノウォン"
+ },
+ {
+   "stn_nm": "중계",
+   "stn_nm_chc": "中溪",
+   "stn_nm_eng": "Junggye",
+   "stn_nm_chn": "中溪",
+   "stn_nm_jpn": "チュンゲ"
+ },
+ {
+   "stn_nm": "하계",
+   "stn_nm_chc": "下 溪",
+   "stn_nm_eng": "Hagye",
+   "stn_nm_chn": "下溪",
+   "stn_nm_jpn": "ハゲ"
+ },
+ {
+   "stn_nm": "공릉(서울과학기술대)",
+   "stn_nm_chc": "孔陵(서울産業大入口)",
+   "stn_nm_eng": "Gongneung(Seoul National Univ. of Science & Technology)",
+   "stn_nm_chn": "孔陵(首尔科学技术大学)",
+   "stn_nm_jpn": "コンヌン"
+ },
+ {
+   "stn_nm": "태릉입구",
+   "stn_nm_chc": "泰陵入口",
+   "stn_nm_eng": "Taereung",
+   "stn_nm_chn": "泰陵",
+   "stn_nm_jpn": "テルンイック"
+ },
+ {
+   "stn_nm": "먹골",
+   "stn_nm_chc": "먹골",
+   "stn_nm_eng": "Meokgol",
+   "stn_nm_chn": "墨谷",
+   "stn_nm_jpn": "モッコル"
+ },
+ {
+   "stn_nm": "중화",
+   "stn_nm_chc": "中和",
+   "stn_nm_eng": "Junghwa",
+   "stn_nm_chn": "中和",
+   "stn_nm_jpn": "チュンファ"
+ },
+ {
+   "stn_nm": "상봉(시외버스터미널)",
+   "stn_nm_chc": "上鳳(市外버스터미널)",
+   "stn_nm_eng": "Sangbong(Intercity Bus Terminal)",
+   "stn_nm_chn": "上凤(市外巴士客运站)",
+   "stn_nm_jpn": "サンボン  "
+ },
+ {
+   "stn_nm": "면목",
+   "stn_nm_chc": "面牧",
+   "stn_nm_eng": "Myeonmok",
+   "stn_nm_chn": "面牧",
+   "stn_nm_jpn": "ミョンモク"
+ },
+ {
+   "stn_nm": "사가정",
+   "stn_nm_chc": "四佳亭",
+   "stn_nm_eng": "Sagajeong",
+   "stn_nm_chn": "四佳亭",
+   "stn_nm_jpn": "サガジョン"
+ },
+ {
+   "stn_nm": "용마산(용마폭포공원)",
+   "stn_nm_chc": "龍馬山(龍馬瀑布公園)",
+   "stn_nm_eng": "Yongmasan(Yongma Falls Park)",
+   "stn_nm_chn": "龙马山(龙马瀑布公園)",
+   "stn_nm_jpn": "ヨンマサン(ヨンマポクポ公園)"
+ },
+ {
+   "stn_nm": "중곡",
+   "stn_nm_chc": "中谷",
+   "stn_nm_eng": "Junggok",
+   "stn_nm_chn": "中谷",
+   "stn_nm_jpn": "チュンゴク"
+ },
+ {
+   "stn_nm": "군자(능동)",
+   "stn_nm_chc": "君子(陵洞)",
+   "stn_nm_eng": "Gunja(Neung-dong)",
+   "stn_nm_chn": "君子(陵洞)",
+   "stn_nm_jpn": "クンジャ"
+ },
+ {
+   "stn_nm": "어린이대공원(세종대)",
+   "stn_nm_chc": "어린이大公園(世宗大)",
+   "stn_nm_eng": "Children's Grand Park(Sejong Univ.)",
+   "stn_nm_chn": "儿童大公园(世宗大学)",
+   "stn_nm_jpn": "オリニ・テゴンウォン"
+ },
+ {
+   "stn_nm": "건대입구",
+   "stn_nm_chc": "建大入口",
+   "stn_nm_eng": "Konkuk Univ.",
+   "stn_nm_chn": "建国大学",
+   "stn_nm_jpn": "コンデイック"
+ },
+ {
+   "stn_nm": "뚝섬유원지",
+   "stn_nm_chc": "뚝섬遊園地",
+   "stn_nm_eng": "Ttukseom Park",
+   "stn_nm_chn": "纛岛游园地",
+   "stn_nm_jpn": "トゥッソム・ユウォンジ"
+ },
+ {
+   "stn_nm": "청담",
+   "stn_nm_chc": "淸潭",
+   "stn_nm_eng": "Cheongdam",
+   "stn_nm_chn": "清潭",
+   "stn_nm_jpn": "チョンダム"
+ },
+ {
+   "stn_nm": "강남구청",
+   "stn_nm_chc": "江南區廳",
+   "stn_nm_eng": "Gangnam-gu Office",
+   "stn_nm_chn": "江南区厅",
+   "stn_nm_jpn": "カンナムグチョン"
+ },
+ {
+   "stn_nm": "학동",
+   "stn_nm_chc": "鶴洞",
+   "stn_nm_eng": "Hak-dong",
+   "stn_nm_chn": "鹤洞",
+   "stn_nm_jpn": "ハクトン"
+ },
+ {
+   "stn_nm": "논현",
+   "stn_nm_chc": "論峴",
+   "stn_nm_eng": "Nonhyeon",
+   "stn_nm_chn": "论岘",
+   "stn_nm_jpn": "ノンヒョン"
+ },
+ {
+   "stn_nm": "반포",
+   "stn_nm_chc": "盤浦",
+   "stn_nm_eng": "Banpo",
+   "stn_nm_chn": "盘浦",
+   "stn_nm_jpn": "パンポ"
+ },
+ {
+   "stn_nm": "고속터미널",
+   "stn_nm_chc": "高速터미널",
+   "stn_nm_eng": "Express Bus Terminal",
+   "stn_nm_chn": "高速巴士客运站",
+   "stn_nm_jpn": "コソクターミナル"
+ },
+ {
+   "stn_nm": "내방",
+   "stn_nm_chc": "內方",
+   "stn_nm_eng": "Naebang",
+   "stn_nm_chn": "內方",
+   "stn_nm_jpn": "ネバン"
+ },
+ {
+   "stn_nm": "이수",
+   "stn_nm_chc": "梨水",
+   "stn_nm_eng": "Isu",
+   "stn_nm_chn": "梨水",
+   "stn_nm_jpn": "イス"
+ },
+ {
+   "stn_nm": "남성",
+   "stn_nm_chc": "南城",
+   "stn_nm_eng": "Namseong",
+   "stn_nm_chn": "南城",
+   "stn_nm_jpn": "ナムソン"
+ },
+ {
+   "stn_nm": "숭실대입구(살피재)",
+   "stn_nm_chc": "崇實大入口(살피재)",
+   "stn_nm_eng": "Soongsil Univ.(Salpijae)",
+   "stn_nm_chn": "崇实大学(赛毗岭)",
+   "stn_nm_jpn": "スンシルデイック"
+ },
+ {
+   "stn_nm": "상도",
+   "stn_nm_chc": "上道",
+   "stn_nm_eng": "Sangdo",
+   "stn_nm_chn": "上道",
+   "stn_nm_jpn": "サンド"
+ },
+ {
+   "stn_nm": "장승배기",
+   "stn_nm_chc": "장승배기",
+   "stn_nm_eng": "Jangseungbaegi",
+   "stn_nm_chn": "长丞拜基",
+   "stn_nm_jpn": "チャンスンベギ"
+ },
+ {
+   "stn_nm": "신대방삼거리",
+   "stn_nm_chc": "新大方삼거리",
+   "stn_nm_eng": "Sindaebangsamgeori",
+   "stn_nm_chn": "新大方丁字路口",
+   "stn_nm_jpn": "シンデバンサムゴリ"
+ },
+ {
+   "stn_nm": "보라매",
+   "stn_nm_chc": "보라매",
+   "stn_nm_eng": "Boramae",
+   "stn_nm_chn": "波拉美",
+   "stn_nm_jpn": "ポラメ"
+ },
+ {
+   "stn_nm": "신풍",
+   "stn_nm_chc": "新豊",
+   "stn_nm_eng": "Sinpung",
+   "stn_nm_chn": "新丰",
+   "stn_nm_jpn": "シンプン"
+ },
+ {
+   "stn_nm": "대림(구로구청)",
+   "stn_nm_chc": "大林(九老區廳)",
+   "stn_nm_eng": "Daerim(Guro-gu Office)",
+   "stn_nm_chn": "大林(九老区厅)",
+   "stn_nm_jpn": "テリム"
+ },
+ {
+   "stn_nm": "남구로",
+   "stn_nm_chc": "南九老",
+   "stn_nm_eng": "Namguro",
+   "stn_nm_chn": "南九老",
+   "stn_nm_jpn": "ナムグロ"
+ },
+ {
+   "stn_nm": "가산디지털단지",
+   "stn_nm_chc": "加山디지털團地",
+   "stn_nm_eng": "Gasan Digital Complex",
+   "stn_nm_chn": "加山数码园区",
+   "stn_nm_jpn": "カサン・デジタルダンジ"
+ },
+ {
+   "stn_nm": "철산",
+   "stn_nm_chc": "鐵山",
+   "stn_nm_eng": "Cheolsan",
+   "stn_nm_chn": "铁山",
+   "stn_nm_jpn": "チョルサン"
+ },
+ {
+   "stn_nm": "광명사거리",
+   "stn_nm_chc": "光明사거리",
+   "stn_nm_eng": "Gwangmyeongsageori",
+   "stn_nm_chn": "光明十字路口",
+   "stn_nm_jpn": "クァンミョンサゴリ"
+ },
+ {
+   "stn_nm": "천왕",
+   "stn_nm_chc": "天旺",
+   "stn_nm_eng": "Cheonwang",
+   "stn_nm_chn": "天旺",
+   "stn_nm_jpn": "チョヌァン"
+ },
+ {
+   "stn_nm": "온수(성공회대입구)",
+   "stn_nm_chc": "溫水(聖公會大入口)",
+   "stn_nm_eng": "Onsu(Sungkonghoe Univ.)",
+   "stn_nm_chn": "温水(圣公会大学)",
+   "stn_nm_jpn": "オンス"
+ },
+ {
+   "stn_nm": "까치울",
+   "stn_nm_chc": "-",
+   "stn_nm_eng": "Kkachiul",
+   "stn_nm_chn": "喜鹊屋",
+   "stn_nm_jpn": "カチウル"
+ },
+ {
+   "stn_nm": "부천종합운동장",
+   "stn_nm_chc": "富川綜合運動場",
+   "stn_nm_eng": "Bucheon Stadium",
+   "stn_nm_chn": "富川综合运动场",
+   "stn_nm_jpn": "プチョン・チョンハブンドンジャン"
+ },
+ {
+   "stn_nm": "춘의",
+   "stn_nm_chc": "春衣",
+   "stn_nm_eng": "Chunui",
+   "stn_nm_chn": "春衣",
+   "stn_nm_jpn": "チュニ"
+ },
+ {
+   "stn_nm": "신중동",
+   "stn_nm_chc": "新中洞",
+   "stn_nm_eng": "Shinjung-dong",
+   "stn_nm_chn": "新中洞",
+   "stn_nm_jpn": "シンジュンドン"
+ },
+ {
+   "stn_nm": "부천시청",
+   "stn_nm_chc": "富川市廳",
+   "stn_nm_eng": "Bucheon City Hall",
+   "stn_nm_chn": "富川市厅",
+   "stn_nm_jpn": "プチョンシチョン"
+ },
+ {
+   "stn_nm": "상동",
+   "stn_nm_chc": "上洞",
+   "stn_nm_eng": "Sang-dong",
+   "stn_nm_chn": "上洞",
+   "stn_nm_jpn": "サンドン"
+ },
+ {
+   "stn_nm": "삼산체육관",
+   "stn_nm_chc": "三山體育館",
+   "stn_nm_eng": "Samsan Gymnasium",
+   "stn_nm_chn": "三山体育馆",
+   "stn_nm_jpn": "サムサン・チェユックァン"
+ },
+ {
+   "stn_nm": "굴포천",
+   "stn_nm_chc": "掘浦川",
+   "stn_nm_eng": "Gulpocheon",
+   "stn_nm_chn": "掘浦川",
+   "stn_nm_jpn": "クルポチョン"
+ },
+ {
+   "stn_nm": "부평구청",
+   "stn_nm_chc": "富平區廳",
+   "stn_nm_eng": "Bupyeong-gu Office",
+   "stn_nm_chn": "富平区厅",
+   "stn_nm_jpn": "プピョングチョン"
+ },
+ {
+   "stn_nm": "암사",
+   "stn_nm_chc": "岩寺",
+   "stn_nm_eng": "Amsa",
+   "stn_nm_chn": "岩寺",
+   "stn_nm_jpn": "アムサ"
+ },
+ {
+   "stn_nm": "천호(풍납토성)",
+   "stn_nm_chc": "千戶(風納土城)",
+   "stn_nm_eng": "Cheonho(Pungnaptoseong)",
+   "stn_nm_chn": "千戶(风纳土城)",
+   "stn_nm_jpn": "チョンホ"
+ },
+ {
+   "stn_nm": "강동구청",
+   "stn_nm_chc": "江東區廳",
+   "stn_nm_eng": "Gangdong-gu Office",
+   "stn_nm_chn": "江东区厅",
+   "stn_nm_jpn": "カンドングチョン"
+ },
+ {
+   "stn_nm": "몽촌토성(평화의문)",
+   "stn_nm_chc": "夢村土城(平和의門)",
+   "stn_nm_eng": "Mongchontoseong(World Peace Gate)",
+   "stn_nm_chn": "梦村土城(和平之门)",
+   "stn_nm_jpn": "モンチョントソン"
+ },
+ {
+   "stn_nm": "잠실(송파구청)",
+   "stn_nm_chc": "蠶室(松坡區廳)",
+   "stn_nm_eng": "Jamsil(Songpa-gu Office)",
+   "stn_nm_chn": "蚕室(松坡区厅)",
+   "stn_nm_jpn": "チャムシル"
+ },
+ {
+   "stn_nm": "석촌",
+   "stn_nm_chc": "石村",
+   "stn_nm_eng": "Seokchon",
+   "stn_nm_chn": "石村",
+   "stn_nm_jpn": "ソクチョン"
+ },
+ {
+   "stn_nm": "송파",
+   "stn_nm_chc": "松坡",
+   "stn_nm_eng": "Songpa",
+   "stn_nm_chn": "松坡",
+   "stn_nm_jpn": "ソンパ"
+ },
+ {
+   "stn_nm": "가락시장",
+   "stn_nm_chc": "可樂市場",
+   "stn_nm_eng": "Garak Market",
+   "stn_nm_chn": "可乐市场",
+   "stn_nm_jpn": "カラク・シジャン"
+ },
+ {
+   "stn_nm": "문정",
+   "stn_nm_chc": "文井",
+   "stn_nm_eng": "Munjeong",
+   "stn_nm_chn": "文井",
+   "stn_nm_jpn": "ムンジョン"
+ },
+ {
+   "stn_nm": "장지",
+   "stn_nm_chc": "長旨",
+   "stn_nm_eng": "Jangji",
+   "stn_nm_chn": "长旨",
+   "stn_nm_jpn": "チャンジ"
+ },
+ {
+   "stn_nm": "복정",
+   "stn_nm_chc": "福井",
+   "stn_nm_eng": "Bokjeong",
+   "stn_nm_chn": "福井",
+   "stn_nm_jpn": "ポクチョン"
+ },
+ {
+   "stn_nm": "산성",
+   "stn_nm_chc": "山城",
+   "stn_nm_eng": "Sanseong",
+   "stn_nm_chn": "山城",
+   "stn_nm_jpn": "サンソン"
+ },
+ {
+   "stn_nm": "남한산성입구(성남법원•검찰청)",
+   "stn_nm_chc": "南漢山城入口(城南法院檢察廳) ",
+   "stn_nm_eng": "Namhansanseong(Seongnam Court & Prosecutors' Office)",
+   "stn_nm_chn": "南汉山城(城南法院·检察厅)",
+   "stn_nm_jpn": "ナムハンサンソンイック"
+ },
+ {
+   "stn_nm": "단대오거리",
+   "stn_nm_chc": "丹垈오거리",
+   "stn_nm_eng": "Dandaeogeori",
+   "stn_nm_chn": "丹垈五岔路口",
+   "stn_nm_jpn": "タンデオゴリ"
+ },
+ {
+   "stn_nm": "신흥",
+   "stn_nm_chc": "新興",
+   "stn_nm_eng": "Sinheung",
+   "stn_nm_chn": "新兴",
+   "stn_nm_jpn": "シンフン"
+ },
+ {
+   "stn_nm": "수진",
+   "stn_nm_chc": "壽進",
+   "stn_nm_eng": "Sujin",
+   "stn_nm_chn": "寿进",
+   "stn_nm_jpn": "スジン"
+ },
+ {
+   "stn_nm": "모란",
+   "stn_nm_chc": "牡丹",
+   "stn_nm_eng": "Moran",
+   "stn_nm_chn": "牡丹",
+   "stn_nm_jpn": "モラン"
+ },
+ {
+   "stn_nm": "언주",
+   "stn_nm_chc": "彦州",
+   "stn_nm_eng": "Eonju",
+   "stn_nm_chn": "彦州",
+   "stn_nm_jpn": "オンジュ"
+ },
+ {
+   "stn_nm": "선정릉",
+   "stn_nm_chc": "宣靖陵",
+   "stn_nm_eng": "Seonjeongneung",
+   "stn_nm_chn": "宣靖陵",
+   "stn_nm_jpn": "ソンジョンヌン"
+ },
+ {
+   "stn_nm": "삼성중앙",
+   "stn_nm_chc": "三成中央",
+   "stn_nm_eng": "Samseong Jungang ",
+   "stn_nm_chn": "三成中央",
+   "stn_nm_jpn": "サムソン・チュンアン"
+ },
+ {
+   "stn_nm": "봉은사",
+   "stn_nm_chc": "奉恩寺",
+   "stn_nm_eng": "Bongeunsa ",
+   "stn_nm_chn": "奉恩寺",
+   "stn_nm_jpn": "ポンウンサ"
+ },
+ {
+   "stn_nm": "종합운동장",
+   "stn_nm_chc": "綜合運動場",
+   "stn_nm_eng": "Sports Complex",
+   "stn_nm_chn": "综合运动场",
+   "stn_nm_jpn": "チョンハブンドンジャン"
+ },
+ {
+   "stn_nm": "삼전",
+   "stn_nm_chc": "三田",
+   "stn_nm_eng": "Samjeon",
+   "stn_nm_chn": "三田",
+   "stn_nm_jpn": "サムジョン"
+ },
+ {
+   "stn_nm": "석촌고분",
+   "stn_nm_chc": "石村古墳",
+   "stn_nm_eng": "Seokchon Gobun",
+   "stn_nm_chn": "石村古坟",
+   "stn_nm_jpn": "ソクチョンコブン"
+ },
+ {
+   "stn_nm": "석촌",
+   "stn_nm_chc": "石村",
+   "stn_nm_eng": "Seokchon",
+   "stn_nm_chn": "石村",
+   "stn_nm_jpn": "ソクチョン"
+ },
+ {
+   "stn_nm": "송파나루",
+   "stn_nm_chc": "松坡나루",
+   "stn_nm_eng": "Songpanaru",
+   "stn_nm_chn": "松坡渡口",
+   "stn_nm_jpn": "ソンパナル"
+ },
+ {
+   "stn_nm": "한성백제",
+   "stn_nm_chc": "漢城百済",
+   "stn_nm_eng": "Hanseong Baekje",
+   "stn_nm_chn": "汉城百济",
+   "stn_nm_jpn": "ハンソンベクチェ"
+ },
+ {
+   "stn_nm": "올림픽공원(한국체대)",
+   "stn_nm_chc": "올림픽公園(韓國體大)",
+   "stn_nm_eng": "Olympic Park(Korea National Sport University)",
+   "stn_nm_chn": "奥林匹克公园(韩国体育大学)",
+   "stn_nm_jpn": "オリンピックゴンウォン"
+ },
+ {
+   "stn_nm": "둔촌오륜",
+   "stn_nm_chc": "遁村五輪",
+   "stn_nm_eng": "Dunchon Oryun",
+   "stn_nm_chn": "遁村五轮",
+   "stn_nm_jpn": "トゥンチョノリュン"
+ },
+ {
+   "stn_nm": "중앙보훈병원",
+   "stn_nm_chc": "中央報勲病院",
+   "stn_nm_eng": "VHS Medical Center",
+   "stn_nm_chn": "中央报勋医院",
+   "stn_nm_jpn": "チュンアンボフンビョンウォン"
+ }
+]
+}
