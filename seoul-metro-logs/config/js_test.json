@@ -1,1 +1,0 @@
-{"@timestamp":"2018-12-31T15:00:00.000Z","code":"150","line_num":"1호선","line_num_en":"Line 1","station":{"name":"서울역","kr":"서울역","en":"Seoul Station","chc":"-","ch":"首尔站","jp":"ソウルヨク"},"location":{"lat":37.554648,"lon":126.972559},"people":{"in":348,"out":222,"total":570}}

@@ -90,7 +90,7 @@ run.js를 실행하기 전 `seoul-metro-logs/data` DIR이 있는지 확인하고
 $ node bin/run.js
 ```
 
-### logstash 사용
+### logstash를 사용해서 ES에 data 넣기
 
 * elastic : https://www.elastic.co/
 * try free를 눌러 logstash를 다운받는다. 
@@ -108,7 +108,9 @@ $ logstash-7.8.0/bin/logstash -f config/seoul-metro-logs.conf
 
 확인이 되면 `config/seoul-metro-logs.conf`파일의 output을 다시 ES로 변경한다.
 
-### python 사용
+* logstash로 진행하다가, python으로 바꿈.
+
+### python을 사용해서 ES에 data 넣기
 * python으로 ES사용하기 참고 사이트
     * https://soyoung-new-challenge.tistory.com/72
     * http://blog.naver.com/PostView.nhn?blogId=wideeyed&logNo=221494109911
@@ -119,3 +121,15 @@ $ logstash-7.8.0/bin/logstash -f config/seoul-metro-logs.conf
 ```
 $ ./elasticsearch-plugin install analysis-nori
 ```
+
+* `config/`에 `seoul-metro-logs.py` 파일을 생성했다.  
+* `seoul-metro-logs-2019.logs` 파일은 여러 json이 배열이 아닌, '\n' 개행문자로 구분되어있다.
+* 따라서 해당파일을 한줄씩 읽어와 document로 삽입해주는 방식을 사용하였다.
+* document가 잘 들어갔는지 확인하기 위해 다음 명령어를 실행해본다.
+```
+$ curl -XGET localhost:9200/seoul-metro-logs-2019/_count?pretty
+```
+
+![check_document_count](./practice_diary_image/check_document_count.png)  
+<count 확인 명령어 수행 결과>  
+
