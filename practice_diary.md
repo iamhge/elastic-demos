@@ -90,7 +90,8 @@ run.js를 실행하기 전 `seoul-metro-logs/data` DIR이 있는지 확인하고
 $ node bin/run.js
 ```
 
-#### 
+### logstash 사용
+
 * elastic : https://www.elastic.co/
 * try free를 눌러 logstash를 다운받는다. 
 * 경로는 `elastic-demos/seoul-metro-logs/`로 지정한다.
@@ -106,3 +107,15 @@ $ logstash-7.8.0/bin/logstash -f config/seoul-metro-logs.conf
 <logstash data추출 확인 결과>  
 
 확인이 되면 `config/seoul-metro-logs.conf`파일의 output을 다시 ES로 변경한다.
+
+### python 사용
+* python으로 ES사용하기 참고 사이트
+    * https://soyoung-new-challenge.tistory.com/72
+    * http://blog.naver.com/PostView.nhn?blogId=wideeyed&logNo=221494109911
+    *
+    
+* mapping 에 nori를 사용하므로, nori를 다운받아야한다.
+* `elasticsearch/bin/`의 elasticsearch-plugin을 이용해 install한 후 ubuntu를 재시작한다.
+```
+$ ./elasticsearch-plugin install analysis-nori
+```
