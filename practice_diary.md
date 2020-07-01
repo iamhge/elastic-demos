@@ -90,7 +90,7 @@ run.js를 실행하기 전 `seoul-metro-logs/data` DIR이 있는지 확인하고
 $ node bin/run.js
 ```
 
-### logstash를 사용해서 ES에 data 넣기
+#### logstash를 사용해서 ES에 data 넣기
 
 * elastic : https://www.elastic.co/
 * try free를 눌러 logstash를 다운받는다. 
@@ -110,12 +110,17 @@ $ logstash-7.8.0/bin/logstash -f config/seoul-metro-logs.conf
 
 * logstash로 진행하다가, python으로 바꿈.
 
-### python을 사용해서 ES에 data 넣기
+#### python을 사용해서 ES에 data 넣기
 * python으로 ES사용하기 참고 사이트
     * https://soyoung-new-challenge.tistory.com/72
     * http://blog.naver.com/PostView.nhn?blogId=wideeyed&logNo=221494109911
-    *
     
+* elastic version에 맞게 pip을 이용해 elastic 라이브러리를 다운받아준다.
+* 본인은 elasticsearch 6.7.0 version을 사용하므로 elasticsearch6을 다운받았다. 
+```
+$ pip install elasticsearch6
+```
+
 * mapping 에 nori를 사용하므로, nori를 다운받아야한다.
 * `elasticsearch/bin/`의 elasticsearch-plugin을 이용해 install한 후 ubuntu를 재시작한다.
 ```
@@ -125,11 +130,33 @@ $ ./elasticsearch-plugin install analysis-nori
 * `config/`에 `seoul-metro-logs.py` 파일을 생성했다.  
 * `seoul-metro-logs-2019.logs` 파일은 여러 json이 배열이 아닌, '\n' 개행문자로 구분되어있다.
 * 따라서 해당파일을 한줄씩 읽어와 document로 삽입해주는 방식을 사용하였다.
+* python3을 통하여 `seoul-metro-logs.py`을 실행시킨다.
+```
+$ python3 seoul-metro-logs.py
+```
+
+* 이때 mapping또는 nori에 의해 계속해서 오류가 난다면, index생성과 mapping을 쉘 단에서 curl명령어를 통해서 생성 및 적용시키도록한다.  
+* mapping은 `index-settings-mappings_light.json`파일로 하도록한다.
+* python은 `seoul-metro-logs_light.py`를 실행시킨다.
+```
+$ curl -XPUT localhost:9200/seoul-metro-logs-2019
+```
+
 * document가 잘 들어갔는지 확인하기 위해 다음 명령어를 실행해본다.
 ```
 $ curl -XGET localhost:9200/seoul-metro-logs-2019/_count?pretty
 ```
 
+
+
+
+
 ![check_document_count](./practice_diary_image/check_document_count.png)  
 <count 확인 명령어 수행 결과>  
 
+### 1.3. Kibana
+* kibana를 실행하여 각종 visualization을 한다.
+* 승하차인원, 전체 유동인원을 시간대별, 지역별, 호선별 등을 기준으로 나누어 만들도록 한다.  
+
+![seoul_metro_dashboard](./practice_diary_image/seoul_metro_dashboard.png)  
+<최종 kibana dashboard>  

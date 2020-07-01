@@ -1,0 +1,46 @@
+{
+  "mappings": {
+    "_doc": {
+      "properties": {
+        "@timestamp": {
+          "type": "date"
+        },
+        "code": {
+          "type": "keyword"
+        },
+        "line_num": {
+          "type": "keyword"
+        },
+        "line_num_en": {
+          "type": "keyword"
+        },
+        "location": {
+          "type": "geo_point"
+        },
+        "people": {
+          "properties": {
+            "in": {
+              "type": "integer"
+            },
+            "out": {
+              "type": "integer"
+            },
+            "total": {
+              "type": "integer"
+            }
+          }
+        },
+        "station": {
+          "properties": {
+            "kr": {
+              "type": "text"
+            },
+            "name": {
+              "type": "text"
+            }
+          }
+        }
+      }
+    }
+  }
+}
