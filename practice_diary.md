@@ -135,12 +135,10 @@ $ ./elasticsearch-plugin install analysis-nori
 $ python3 seoul-metro-logs.py
 ```
 
-* 이때 mapping또는 nori에 의해 계속해서 오류가 난다면, index생성과 mapping을 쉘 단에서 curl명령어를 통해서 생성 및 적용시키도록한다.  
-* mapping은 `index-settings-mappings_light.json`파일로 하도록한다.
+* 이때 mapping또는 nori에 의해 계속해서 오류가 난다면, index생성과 mapping은 쉘 커멘드명령어 단에서 curl명령어를 통해 생성 및 적용시키도록한다.  
+* mapping은 `index-settings-mappings_light.json`파일로 mapping 하도록한다.
 * python은 `seoul-metro-logs_light.py`를 실행시킨다.
-```
-$ curl -XPUT localhost:9200/seoul-metro-logs-2019
-```
+
 
 * document가 잘 들어갔는지 확인하기 위해 다음 명령어를 실행해본다.
 ```
@@ -148,15 +146,32 @@ $ curl -XGET localhost:9200/seoul-metro-logs-2019/_count?pretty
 ```
 
 
-
-
-
 ![check_document_count](./practice_diary_image/check_document_count.png)  
 <count 확인 명령어 수행 결과>  
 
 ### 1.3. Kibana
+#### 1.3.1. dashboard 생성
 * kibana를 실행하여 각종 visualization을 한다.
 * 승하차인원, 전체 유동인원을 시간대별, 지역별, 호선별 등을 기준으로 나누어 만들도록 한다.  
 
 ![seoul_metro_dashboard](./practice_diary_image/seoul_metro_dashboard.png)  
 <최종 kibana dashboard>  
+
+#### 1.3.2. kibana를 통해 분석
+
+* 특정 호선만 visualization한다.
+* 이를 통해 해당 호선에서 가장 유동인구가 많은 역을 확인할 수 있다.  
+
+![line2_a_month](./practice_diary_image/line2_a_month.png)  
+<2호선만 나타낸 결과>   
+
+* time line을 특정 일자에 맞추어 적용시킨다.
+* 주말과 평일에 따른 변화를 분석한다.
+* 아래 예시에서 주말은 2019-09-07 ~ 2019-09-08
+* 아래 예시에서 평일은 2019-09-02 ~ 2019-09-06
+
+![weekend](./practice_diary_image/weekend.png)  
+<주말만 나타낸 결과>  
+
+![common_day](./practice_diary_image/common_day.png)  
+<평일만 나타낸 결과>  
